@@ -1,0 +1,88 @@
+Thu Apr 03 2014 02:56:20 GMT+0000 (Coordinated Universal Time): Unaught exception: Error: listen EACCES
+    at errnoException (net.js:904:11)
+    at Server._listen2 (net.js:1023:19)
+    at listen (net.js:1064:10)
+    at Server.listen (net.js:1132:5)
+    at Function.app.listen (D:\home\site\wwwroot\node_modules\express\lib\application.js:533:24)
+    at D:\home\site\wwwroot\core\server\index.js:269:20
+    at NearFulfilledProxy.when (D:\home\site\wwwroot\node_modules\when\when.js:501:43)
+    at Promise._message (D:\home\site\wwwroot\node_modules\when\when.js:426:25)
+    at Array.deliver [as 0] (D:\home\site\wwwroot\node_modules\when\when.js:319:7)
+    at runHandlers (D:\home\site\wwwroot\node_modules\when\when.js:385:12)
+Thu Apr 03 2014 02:56:38 GMT+0000 (Coordinated Universal Time): Unaught exception: Error: listen EACCES
+    at errnoException (net.js:904:11)
+    at Server._listen2 (net.js:1023:19)
+    at listen (net.js:1064:10)
+    at Server.listen (net.js:1132:5)
+    at Function.app.listen (D:\home\site\wwwroot\node_modules\express\lib\application.js:533:24)
+    at D:\home\site\wwwroot\core\server\index.js:269:20
+    at NearFulfilledProxy.when (D:\home\site\wwwroot\node_modules\when\when.js:501:43)
+    at Promise._message (D:\home\site\wwwroot\node_modules\when\when.js:426:25)
+    at Array.deliver [as 0] (D:\home\site\wwwroot\node_modules\when\when.js:319:7)
+    at runHandlers (D:\home\site\wwwroot\node_modules\when\when.js:385:12)
+Thu Apr 03 2014 02:57:51 GMT+0000 (Coordinated Universal Time): Unaught exception: Error: listen EACCES
+    at errnoException (net.js:904:11)
+    at Server._listen2 (net.js:1023:19)
+    at listen (net.js:1064:10)
+    at Server.listen (net.js:1132:5)
+    at Function.app.listen (D:\home\site\wwwroot\node_modules\express\lib\application.js:533:24)
+    at D:\home\site\wwwroot\core\server\index.js:269:20
+    at NearFulfilledProxy.when (D:\home\site\wwwroot\node_modules\when\when.js:501:43)
+    at Promise._message (D:\home\site\wwwroot\node_modules\when\when.js:426:25)
+    at Array.deliver [as 0] (D:\home\site\wwwroot\node_modules\when\when.js:319:7)
+    at runHandlers (D:\home\site\wwwroot\node_modules\when\when.js:385:12)
+Thu Apr 03 2014 02:58:26 GMT+0000 (Coordinated Universal Time): Unaught exception: Error: listen EACCES
+    at errnoException (net.js:904:11)
+    at Server._listen2 (net.js:1023:19)
+    at listen (net.js:1064:10)
+    at Server.listen (net.js:1132:5)
+    at Function.app.listen (D:\home\site\wwwroot\node_modules\express\lib\application.js:533:24)
+    at D:\home\site\wwwroot\core\server\index.js:269:20
+    at NearFulfilledProxy.when (D:\home\site\wwwroot\node_modules\when\when.js:501:43)
+    at Promise._message (D:\home\site\wwwroot\node_modules\when\when.js:426:25)
+    at Array.deliver [as 0] (D:\home\site\wwwroot\node_modules\when\when.js:319:7)
+    at runHandlers (D:\home\site\wwwroot\node_modules\when\when.js:385:12)
+Thu Apr 03 2014 02:59:52 GMT+0000 (Coordinated Universal Time): Unaught exception: Error: listen EACCES
+    at errnoException (net.js:904:11)
+    at Server._listen2 (net.js:1023:19)
+    at listen (net.js:1064:10)
+    at Server.listen (net.js:1132:5)
+    at Function.app.listen (D:\home\site\wwwroot\node_modules\express\lib\application.js:533:24)
+    at D:\home\site\wwwroot\core\server\index.js:269:20
+    at NearFulfilledProxy.when (D:\home\site\wwwroot\node_modules\when\when.js:501:43)
+    at Promise._message (D:\home\site\wwwroot\node_modules\when\when.js:426:25)
+    at Array.deliver [as 0] (D:\home\site\wwwroot\node_modules\when\when.js:319:7)
+    at runHandlers (D:\home\site\wwwroot\node_modules\when\when.js:385:12)
+Thu Apr 03 2014 03:00:26 GMT+0000 (Coordinated Universal Time): Unaught exception: Error: listen EACCES
+    at errnoException (net.js:904:11)
+    at Server._listen2 (net.js:1023:19)
+    at listen (net.js:1064:10)
+    at Server.listen (net.js:1132:5)
+    at Function.app.listen (D:\home\site\wwwroot\node_modules\express\lib\application.js:533:24)
+    at D:\home\site\wwwroot\core\server\index.js:269:20
+    at NearFulfilledProxy.when (D:\home\site\wwwroot\node_modules\when\when.js:501:43)
+    at Promise._message (D:\home\site\wwwroot\node_modules\when\when.js:426:25)
+    at Array.deliver [as 0] (D:\home\site\wwwroot\node_modules\when\when.js:319:7)
+    at runHandlers (D:\home\site\wwwroot\node_modules\when\when.js:385:12)
+Thu Apr 03 2014 03:03:26 GMT+0000 (Coordinated Universal Time): Unaught exception: Error: listen EACCES
+    at errnoException (net.js:904:11)
+    at Server._listen2 (net.js:1023:19)
+    at listen (net.js:1064:10)
+    at Server.listen (net.js:1132:5)
+    at Function.app.listen (D:\home\site\wwwroot\node_modules\express\lib\application.js:533:24)
+    at D:\home\site\wwwroot\core\server\index.js:269:20
+    at NearFulfilledProxy.when (D:\home\site\wwwroot\node_modules\when\when.js:501:43)
+    at Promise._message (D:\home\site\wwwroot\node_modules\when\when.js:426:25)
+    at Array.deliver [as 0] (D:\home\site\wwwroot\node_modules\when\when.js:319:7)
+    at runHandlers (D:\home\site\wwwroot\node_modules\when\when.js:385:12)
+Thu Apr 03 2014 05:48:50 GMT+0000 (Coordinated Universal Time): Unaught exception: Error: listen EACCES
+    at errnoException (net.js:904:11)
+    at Server._listen2 (net.js:1023:19)
+    at listen (net.js:1064:10)
+    at Server.listen (net.js:1132:5)
+    at Function.app.listen (D:\home\site\wwwroot\node_modules\express\lib\application.js:533:24)
+    at D:\home\site\wwwroot\core\server\index.js:269:20
+    at NearFulfilledProxy.when (D:\home\site\wwwroot\node_modules\when\when.js:501:43)
+    at Promise._message (D:\home\site\wwwroot\node_modules\when\when.js:426:25)
+    at Array.deliver [as 0] (D:\home\site\wwwroot\node_modules\when\when.js:319:7)
+    at runHandlers (D:\home\site\wwwroot\node_modules\when\when.js:385:12)
